@@ -38,4 +38,4 @@ If you have other mods that change the 3 files in this, you will want to manuall
 
 ## Credits
 
-Modify and use this code however you want without credit. It's a mod for a horribly balanced 6 year old ecchi dungeon crawler that no one plays.If you're interested in modding I have a really incomplete guide document I will upload sometime.
+Modify and use this code however you want without credit. It's a mod for a horribly balanced 6 year old ecchi dungeon crawler that no one plays.
