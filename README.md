@@ -10,6 +10,8 @@ Mod for Sakura Dungeon to allow non Ceri / Yomi characters to have small stat gr
 3. Replace the `actors.tsv` file in the `game` folder, then navigate to `system` and replace the `actor.rpy` and `stats.rpy` files. (If you see `actors.rpyc` or `stats.rpyc` you can delete them)
 4. Start a new game. Because you are adding the abilities via `actors.tsv` it won't retroactively apply to any current saves.
 
+**WARNING**: previous save files are likely to become unplayable since you will be changing the game's script. They won't become corrupted however.
+
 If succesful you should see that all non Ceri/Yomi characters now have either `Capacity` or `Capacity-2` in their abilities.
 
 Example (ignore the debug XP ability):
