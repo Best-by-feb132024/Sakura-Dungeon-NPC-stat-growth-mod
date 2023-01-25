@@ -366,8 +366,6 @@ init python:
         "Spiritual":_("If this character makes a hit, the CP cost for this skill is reduced by 1."),
         "Prudent":_("This character starts with higher CP when entering combat, or when Flow/Panic ends."),
         "Fortitude":_("If this character is under 50% VP, she gains 1 CP on her turn."),
-        "Masochist":_("If this character is under 50% VP, she does 20% more damage"), #WIP
-        "Horny":_("When this character's clothes are torn, she gains 75% resistance to fire and physical damage until her clothes are repaired."), #WIP
         "Acrobat":_("This character gains a dodge bonus equal to 3x her CP."), 
         "Grappler":_("This character gains a melee critical bonus equal to 3x her CP."),
         "Hunter":_("This character gains a ranged critical bonus equal to 3x her CP."),
