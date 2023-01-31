@@ -18,6 +18,8 @@ Example (ignore the debug XP ability):
 
 ![example](https://github.com/Best-by-feb132024/Sakura-Dungeon-NPC-stat-growth-mod/blob/main/img/capacity-2%20before.PNG)
 
+![after](https://github.com/Best-by-feb132024/Sakura-Dungeon-NPC-stat-growth-mod/blob/main/img/capacity-2%20after.PNG)
+
 ## Changes
 
 * Sylvi, Maeve, and Captain Bonny: gains `Capacity`
